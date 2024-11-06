@@ -10,4 +10,4 @@ git add --all
 git commit -m "Sync configurations at shutdown $(date)" || echo "No changes to commit"
 
 # Pousser les modifications vers le dépôt distant
-git push origin main
+git push origin master
