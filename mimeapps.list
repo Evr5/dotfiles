@@ -1,5 +1,6 @@
 [Added Associations]
 application/x-shellscript=org.gnome.gedit.desktop;foot.desktop;
+text/plain=org.gnome.gedit.desktop;
 
 [Default Applications]
 text/html=google-chrome.desktop
