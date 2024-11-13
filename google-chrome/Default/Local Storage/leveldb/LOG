@@ -1,0 +1,15 @@
+2024/11/13-19:16:58.256 4 Reusing MANIFEST /home/ethan/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/11/13-19:16:58.257 4 Recovering log #352
+2024/11/13-19:16:58.257 4 Reusing old log /home/ethan/.config/google-chrome/Default/Local Storage/leveldb/000352.log 
+2024/11/13-19:19:53.873 5 Level-0 table #356: started
+2024/11/13-19:19:53.880 5 Level-0 table #356: 106289 bytes OK
+2024/11/13-19:19:53.882 5 Delete type=0 #352
+2024/11/13-19:19:53.882 5 Compacting 4@0 + 1@1 files
+2024/11/13-19:19:53.895 5 Generated table #357@0: 2221 keys, 800522 bytes
+2024/11/13-19:19:53.895 5 Compacted 4@0 + 1@1 files => 800522 bytes
+2024/11/13-19:19:53.898 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/13-19:19:53.898 5 Delete type=2 #356
+2024/11/13-19:19:53.898 5 Delete type=2 #347
+2024/11/13-19:19:53.898 5 Delete type=2 #349
+2024/11/13-19:19:53.898 5 Delete type=2 #353
+2024/11/13-19:19:53.898 5 Delete type=2 #351

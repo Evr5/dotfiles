@@ -1,0 +1,40 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "assets/icons/default/128.png",
+         "16": "assets/icons/default/16.png",
+         "48": "assets/icons/default/48.png"
+      },
+      "default_title": "iGraal"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "js": [ "scripts/website/iGraalContentScript.js" ],
+      "matches": [ "*://*.igraal.com/*", "*://*.igraal.lan/*" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "scripts/vendor/browser-polyfill.min.js" ],
+      "matches": [ "*://*/*" ]
+   } ],
+   "default_locale": "fr",
+   "description": "__MSG_extension_description__",
+   "host_permissions": [ "*://*/*" ],
+   "icons": {
+      "128": "assets/icons/default/128.png",
+      "16": "assets/icons/default/16.png",
+      "48": "assets/icons/default/48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC9WHAGoeIoG4wo0MECrUrgBT33D7Aazi4zPW9tTugCqZWCeNnCVwwERXHaZ2yujbySEpnAv5uUJIKBcA/RvkENtsxzABBof9Rd7nM3JQyCKJV/k3DDW3HDy/4x8Lt1AieJImTAts5WRNnr2pIw+QL0t5vcg2x33xO5wedejvcVoQIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "88",
+   "name": "__MSG_extension_name__",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "./pages/settings.html"
+   },
+   "permissions": [ "activeTab", "webRequest", "management", "notifications", "privacy", "scripting", "storage", "tabs", "unlimitedStorage", "webNavigation", "alarms" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "9.3.11"
+}

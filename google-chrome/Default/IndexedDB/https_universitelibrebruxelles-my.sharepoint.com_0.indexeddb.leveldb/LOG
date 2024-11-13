@@ -1,0 +1,57 @@
+2024/11/13-10:33:21.778 5bf Reusing MANIFEST /home/ethan/.config/google-chrome/Default/IndexedDB/https_universitelibrebruxelles-my.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/13-10:33:21.778 5bf Recovering log #16
+2024/11/13-10:33:21.787 5bf Reusing old log /home/ethan/.config/google-chrome/Default/IndexedDB/https_universitelibrebruxelles-my.sharepoint.com_0.indexeddb.leveldb/000016.log 
+2024/11/13-10:33:33.979 5c0 Level-0 table #21: started
+2024/11/13-10:33:33.997 5c0 Level-0 table #21: 1659620 bytes OK
+2024/11/13-10:33:34.000 5c0 Delete type=0 #16
+2024/11/13-10:33:44.611 5c0 Compacting 1@1 + 1@2 files
+2024/11/13-10:33:44.628 5c0 Generated table #22@1: 3757 keys, 1202766 bytes
+2024/11/13-10:33:44.628 5c0 Compacted 1@1 + 1@2 files => 1202766 bytes
+2024/11/13-10:33:44.630 5c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/13-10:33:44.630 5c0 Delete type=2 #18
+2024/11/13-10:33:44.630 5c0 Delete type=2 #21
+2024/11/13-10:33:45.050 5c0 Level-0 table #24: started
+2024/11/13-10:33:45.066 5c0 Level-0 table #24: 1928476 bytes OK
+2024/11/13-10:33:45.069 5c0 Delete type=0 #20
+2024/11/13-10:33:45.175 5c0 Compacting 1@1 + 1@2 files
+2024/11/13-10:33:45.194 5c0 Generated table #25@1: 3872 keys, 1293443 bytes
+2024/11/13-10:33:45.194 5c0 Compacted 1@1 + 1@2 files => 1293443 bytes
+2024/11/13-10:33:45.196 5c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/13-10:33:45.196 5c0 Delete type=2 #22
+2024/11/13-10:33:45.196 5c0 Delete type=2 #24
+2024/11/13-10:33:47.131 5d1 Level-0 table #27: started
+2024/11/13-10:33:47.146 5d1 Level-0 table #27: 1314142 bytes OK
+2024/11/13-10:33:47.148 5d1 Delete type=0 #23
+2024/11/13-10:33:47.169 5c0 Compacting 1@1 + 1@2 files
+2024/11/13-10:33:47.191 5c0 Generated table #28@1: 4628 keys, 1793046 bytes
+2024/11/13-10:33:47.191 5c0 Compacted 1@1 + 1@2 files => 1793046 bytes
+2024/11/13-10:33:47.193 5c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/13-10:33:49.797 5c0 Level-0 table #30: started
+2024/11/13-10:33:49.815 5c0 Level-0 table #30: 1886600 bytes OK
+2024/11/13-10:33:49.819 5c0 Delete type=2 #25
+2024/11/13-10:33:49.819 5c0 Delete type=0 #26
+2024/11/13-10:33:49.819 5c0 Delete type=2 #27
+2024/11/13-10:33:49.832 5bf Compacting 1@1 + 1@2 files
+2024/11/13-10:33:49.858 5bf Generated table #31@1: 5795 keys, 1799618 bytes
+2024/11/13-10:33:49.858 5bf Compacted 1@1 + 1@2 files => 1799618 bytes
+2024/11/13-10:33:49.860 5bf compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/13-10:33:49.861 5bf Delete type=2 #30
+2024/11/13-10:33:49.861 5bf Delete type=2 #28
+2024/11/13-10:34:38.230 5c0 Level-0 table #33: started
+2024/11/13-10:34:38.247 5c0 Level-0 table #33: 1511311 bytes OK
+2024/11/13-10:34:38.250 5c0 Delete type=0 #29
+2024/11/13-10:34:38.472 5c0 Compacting 1@1 + 1@2 files
+2024/11/13-10:34:38.494 5c0 Generated table #34@1: 4539 keys, 1555823 bytes
+2024/11/13-10:34:38.494 5c0 Compacted 1@1 + 1@2 files => 1555823 bytes
+2024/11/13-10:34:38.495 5c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/13-10:34:38.496 5c0 Delete type=2 #31
+2024/11/13-10:34:38.496 5c0 Delete type=2 #33
+2024/11/13-10:34:42.997 5d1 Level-0 table #36: started
+2024/11/13-10:34:43.011 5d1 Level-0 table #36: 1360416 bytes OK
+2024/11/13-10:34:43.014 5d1 Delete type=0 #32
+2024/11/13-10:34:43.112 5bf Compacting 1@1 + 1@2 files
+2024/11/13-10:34:43.135 5bf Generated table #37@1: 4863 keys, 1631497 bytes
+2024/11/13-10:34:43.135 5bf Compacted 1@1 + 1@2 files => 1631497 bytes
+2024/11/13-10:34:43.137 5bf compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/13-10:34:43.137 5bf Delete type=2 #36
+2024/11/13-10:34:43.137 5bf Delete type=2 #34

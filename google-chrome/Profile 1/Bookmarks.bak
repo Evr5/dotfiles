@@ -1,0 +1,81 @@
+{
+   "checksum": "7b919f701505fcc550690cc0bc78c652",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13322485608594657",
+            "date_last_used": "13375814142923659",
+            "guid": "933e64a6-4962-4a62-b13b-9c6f8b7431cc",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13322591543419029",
+            "date_last_used": "13375732695743155",
+            "guid": "5326fc7b-ca45-4825-b6f0-7a081c809624",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/?reload=9&hl=FR"
+         }, {
+            "date_added": "13329744337805864",
+            "date_last_used": "0",
+            "guid": "124064c2-fef9-404f-8cc4-f697594ecd4c",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "https://api.amnesiacheats.xyz/api/v1/key/license",
+            "type": "url",
+            "url": "https://api.amnesiacheats.xyz/api/v1/key/license"
+         } ],
+         "date_added": "13374409434401439",
+         "date_last_used": "0",
+         "date_modified": "13329744337805864",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barre de favoris",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13345382053616650",
+            "date_last_used": "0",
+            "guid": "b8c72aea-bc69-4624-8aae-0431f1b4b134",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Mots de passe iCloud",
+            "type": "url",
+            "url": "https://chromewebstore.google.com/detail/mots-de-passe-icloud/pejdijmoenmkgeppbflobdenhhabjlaj?pli=1"
+         } ],
+         "date_added": "13374409434401441",
+         "date_last_used": "0",
+         "date_modified": "13345382053616650",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Autres favoris",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13374409434401443",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoris sur mobile",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CmEKQQiIgQISOyAAkgE2CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCUKQy5CjJgYAEUKQy5CjJgYAKTvAy5CjJgYAEgAqGGhRZ2JoMkJTakxqcTRvckE4K1QwM2c9PUgDEusBCAYS5gEKHERSaDZZNGE0a081M2NLb3ZrYUY5U0trYkZYWT0SZlo6QURxdEFaeE1XWnFvSGpUdTNxQ0QrUnB4bnJuVS8rd01QWUpVWm10bDN6UlBGeXVhaWwwYnVGb0tqVjBkdFcxcnh1VEM2Sm92S3piUWd5MTJjaWVaYWtZQWlUYklheG91amc9PRgAIAAoADDc9fjY4JeJAziTkb2K6zBAk5G9iuswShxtUCsxTkhyN3Z0ZTRJY1dycFVzZW9xRWtZck09Wh4iHHN4STNJYkJiUnUzc01lbWlWTVgySXNyMjVYTT1l/ZyMShLsAQgHEucBChx0d29VREFxNkVhL1ZRN2h0Vm5oVFJoZGk1RU09EmZaOkFEcXRBWnhNV1pxb0hqVHUzcUNEK1JweG5yblV3WWNlWE1QS3d5TVpGaGtjdUxmeW1XcDk0dU9WaWNrbVBIWG4xV3NIYzNBcXpxNnhHY1B0MUJRT0hldmlYKy9IQnB4ck1RPT0YACAAKAAwitO+1oyYiQM4+/D+vOswQPvw/rzrMEocZ2N0UG5sY09yRjNpRUVSdXN2ODAxQWFHTW1FPVofIh25NjQ5SW1kUksvOTVvdHQweGtkSXIwUEdBeWdFPWX9nIxKEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFad1dWaW8yWGVlMllaNWZwd0h6Q09Ud0M5dEl0MGxpUE0vOFJTR1h3K0Izc0Z0eE5xQzM4YjFUQnZLZ2ZObnNocVBqYlFNajdnYVh3aVFqSUpPRTBUV1pvQ0d0U0E9PRgAIAAoADCB6caj/pmJAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEuwBCAgS5wEKHFk5U1VScnlrVS81ZE10MW9qb1RONjdHVGhEUT0SZlo6QURxdEFaeE1XWnFvSGpUdTNxQ0QrUnB4bnJuVWRjREhGTXFZdVduazBQT29oL2NqdHU5Z1ZldXVlR2tHQkZFRlFZRk13OEZ1RWtKMkljdjRpR2xHVUgvOUVpMkY5RjlGWHc9PRgAIAAoADCE1KHr6pf/AjiO59qPhjFAjufaj4YxShxFSlpENlAxY0NZNERlcEtGNFhmZXFZQW02UGs9Wh8iHdxpbHovRVFZc01EdnJxTTZTdHNmakltZFlGSUU9ZQAAAAASwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp4L0sveTdvOTRWVjJZUWlyc2hOcVVrdFpIeG8vQzJWZEY4MWpLRzZWYklBNmdESFN6L3pYZGdFK2l5cStQOGMxSkVwbXNRODVXalhtQmRTU0poalBsemxXWUp0UT09GAAgACgAMIHpxqP+mYkDOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAS6wEIBRLmAQocY2FPVUdQeU8zNnRqK2E4UVZibjRYaTAxa1k0PRJmWjpBRHF0QVp4TVdacW9IalR1M3FDRCtScHhucm5VVC9sa1dGVVBTTW4wSHFEaSsxbVovOUI3Z0dzZDZlT3kya3UwN1cxbWF1cjk4SmR6cS8wOERYUEFJTk5RSW95ZlFuL0duUT09GAAgACgAMLKy0OL53oIDOPCdrbDAMUDwna2wwDFKHE9PUmxqUXpiQ3BSbzc4TDlMc3FEaWR5YUR0dz1aHiIcOWtEVldEaWl3YjYyS250QXg4dkVqNFdsYkhRPWXHaQdYEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFad0lNRGJadXRpbHlCa1BPNjJCTEdESWN5M0Q2VlllRWhXd0dGWFA5MmFkWDRUK0VMdXFISXk1YnBOQzFkWDRqNWZHSVc0WRgAIAAoADCB6caj/pmJAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAMAE4AA==",
+   "version": 1
+}

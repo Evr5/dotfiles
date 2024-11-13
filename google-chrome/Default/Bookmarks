@@ -1,0 +1,290 @@
+{
+   "checksum": "7988846ddc6a430a9ddb60fac2486735",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13342269897459334",
+            "date_last_used": "13374949558693003",
+            "guid": "9eb9b6ad-2b3f-413f-b6c3-10c5fb89652a",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13344697801676433",
+            "date_last_used": "13350926626250689",
+            "guid": "58302775-389e-4859-bec9-189196d88599",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "PayPal",
+            "type": "url",
+            "url": "https://www.paypal.com/myaccount/summary"
+         }, {
+            "date_added": "13345409237083205",
+            "date_last_used": "13375984753427468",
+            "guid": "de2da0e9-f6ce-43cf-b213-511a61fae278",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Boîte de réception (4 380) - ethanvr3@gmail.com - Gmail",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/2/#inbox"
+         }, {
+            "date_added": "13375795889339649",
+            "date_last_used": "13375980498644857",
+            "guid": "0044848c-05d6-4fab-a244-a951ceec1366",
+            "id": "31",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Binance",
+            "type": "url",
+            "url": "https://www.binance.com/fr/my/dashboard"
+         }, {
+            "date_added": "13344697801682745",
+            "date_last_used": "13375995177311171",
+            "guid": "73f4ec31-c2bf-46db-a60c-f50d473f14f2",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google Traduction",
+            "type": "url",
+            "url": "https://translate.google.com/?hl=fr&tab=TT"
+         }, {
+            "date_added": "13344340610121325",
+            "date_last_used": "13375731264879240",
+            "guid": "7de508af-4fae-4cfd-8533-8e3fdb511d09",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Reverso",
+            "type": "url",
+            "url": "https://www.reverso.net/orthographe/correcteur-francais/"
+         }, {
+            "date_added": "13344340610143649",
+            "date_last_used": "13375995428403030",
+            "guid": "3a2fbc52-3425-4009-a193-999b1e820330",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chat.openai.com/chat"
+         }, {
+            "date_added": "13358346186341596",
+            "date_last_used": "13375189015921014",
+            "guid": "78fbf2f7-dd0a-4021-a879-55f502df8d9f",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Copilot",
+            "type": "url",
+            "url": "https://copilot.microsoft.com/?itrid=66279db7d58849aabb4989e5565e68b4"
+         }, {
+            "date_added": "13344975388251004",
+            "date_last_used": "13375964001816000",
+            "guid": "22ff00c5-d039-4ab8-a603-9be4cd842ffc",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ULB",
+            "type": "url",
+            "url": "https://universitelibrebruxelles-my.sharepoint.com/personal/ethan_van_ruyskensvelde_ulb_be/_layouts/15/onedrive.aspx?view=0"
+         }, {
+            "date_added": "13359222549033591",
+            "date_last_used": "13374363884180424",
+            "guid": "f9c8870e-5534-4a13-b5b9-7853d10da52e",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "perso",
+            "type": "url",
+            "url": "https://onedrive.live.com/?id=root&cid=54F71CE52B980C9E"
+         }, {
+            "date_added": "13353333687388879",
+            "date_last_used": "13375995583450407",
+            "guid": "efb8594f-ebe0-4ad5-a2ab-6095fe4dfd99",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13374878151801216",
+            "date_last_used": "13375805651686918",
+            "guid": "fc5e2813-44dd-4fd8-a549-6c9688060ff6",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitLab",
+            "type": "url",
+            "url": "https://gitlab.com/"
+         }, {
+            "date_added": "13351449514416504",
+            "date_last_used": "0",
+            "guid": "51809851-6f5d-47f6-a2a2-f677e12d222d",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "movie-web",
+            "type": "url",
+            "url": "https://movie-web.app/search/movie"
+         }, {
+            "date_added": "13360749428414014",
+            "date_last_used": "13365810615701369",
+            "guid": "b7904a47-e822-4538-895c-3690ccacb149",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Télécharger des Jeux-PC",
+            "type": "url",
+            "url": "https://www.torrent911.vg/torrents/jeux-pc"
+         }, {
+            "date_added": "13372683392618052",
+            "date_last_used": "0",
+            "guid": "dd2cdaff-7e48-48eb-a509-1e0e97b9daf3",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Garmin Connect",
+            "type": "url",
+            "url": "https://connect.garmin.com/modern/settings/accountInformation"
+         }, {
+            "date_added": "13373482838365907",
+            "date_last_used": "0",
+            "guid": "4a3d847c-e4c2-4241-9a5f-c75680140f8d",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "config for nix",
+            "type": "url",
+            "url": "https://github.com/danihek/nixos-config"
+         } ],
+         "date_added": "13374361248542435",
+         "date_last_used": "0",
+         "date_modified": "13375795906114603",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barre de favoris",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13371754290837596",
+            "date_last_used": "0",
+            "guid": "70508632-207a-45e0-ab59-fabd8a15b87c",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ULB Connexion",
+            "type": "url",
+            "url": "https://auth.ulb.be/login?service=https%3A%2F%2Fauth.ulb.be%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Dapp_mobile%26redirect_uri%3Dcom.mon-ulb-mobile.test%3A%2F%2Fcallback%26response_type%3Dcode%26state%3DN9uWCNaSgr%26client_name%3DCasOAuthClient"
+         }, {
+            "date_added": "13344364635807134",
+            "date_last_used": "13375963951955121",
+            "guid": "2c375f52-5f49-4031-9285-902c059643d5",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Accueil | UV",
+            "type": "url",
+            "url": "https://uv.ulb.ac.be/"
+         }, {
+            "date_added": "13351618209284389",
+            "date_last_used": "13373368096753313",
+            "guid": "08c839ac-1e93-4823-a6f2-c961b65b569f",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "TimeEdit",
+            "type": "url",
+            "url": "https://cloud.timeedit.net/be_ulb/web/etudiant/ri10685g055Z75Q655654xY0y10Z6WQ858963Q0Q27715Z3791QY.html"
+         }, {
+            "date_added": "13344697801720613",
+            "date_last_used": "0",
+            "guid": "d23044d2-bc62-413a-9d35-941990e55197",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Python Tutor",
+            "type": "url",
+            "url": "https://pythontutor.com/python-debugger.html#mode=edit"
+         }, {
+            "date_added": "13341499599223158",
+            "date_last_used": "0",
+            "guid": "a51a2994-e13c-4773-b78d-d4d454993040",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "MOOC",
+            "type": "url",
+            "url": "https://lms.fun-mooc.fr/courses/course-v1:ulb+44013+session07/courseware/63e9dd1bcf594fc4a084abc1531260d4/815669e67e584324ab1a5b4a912b28cf/"
+         }, {
+            "date_added": "13345218492389477",
+            "date_last_used": "13352549852534383",
+            "guid": "6bf20ee9-ace6-447b-bcab-becf26d8d397",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Notion",
+            "type": "url",
+            "url": "https://www.notion.so/Structure-de-l-Univers-e2aaad512c544aab8c6c87f8d9c1cefe"
+         }, {
+            "date_added": "13375373414329364",
+            "date_last_used": "13375802501225842",
+            "guid": "2d6d61f8-66d2-4475-a923-4a7789518208",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitLab - ULB",
+            "type": "url",
+            "url": "https://gitlab.ulb.be/users/sign_in"
+         } ],
+         "date_added": "13374361248542437",
+         "date_last_used": "0",
+         "date_modified": "13375795889339649",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Autres favoris",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13374361248542438",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoris sur mobile",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CmEKQQiIgQISOyAAkgE2CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCcv+1lfPJgYAEcv+1lfPJgYAKcAg2FfPJgYAEgAqGEdMYm53UzRzTzIvcUpoZkwyYUtxNkE9PUgDEu0BCBIS6AEKHGtLS2JHY1R5ZmFQT3p6bWhWWlRWSFJzVnovMD0SZlo6QURxdEFaenJITllGelRCZVhQL2pZdjdzZGRzU3c4aUp5MmFUZms0azBHa1kzQVAzVi9uUHIxaDZPdUhWWlRVNnpYendPNkNPVTVXaU9VVUNmN2IzR1pPNHAxMC95MW4xWVE9PRgAIAAoADCh49Cfw/mIAzjq3NKKpjJA6tzSiqYyShxCK3JGWkpZSjVrMHFHVVFMQ2h1NUhrYVlkdjA9WiAiHv+4a0FCY1VVbkthUXo5aTVUUGpXSDAzZW9FeUxBPWXsxNF5EuwBCBQS5wEKHEs3b0ErYkR2bEt6V1dGUUVGb2Rqd2pMemRJbz0SZlo6QURxdEFaenJITllGelRCZVhQL2pZdjdzZGRzUzlvNlNsR210OS9Ic05TU09DTFZJcldmZ3AxRjBlSmtOM3JJcURQT0laaW5EK0FwLzgzSG9CZW9SeW5sRnFrYS9zRFZGa1E9PRgAIAAoADDht+2Ivt6IAziV7c7PojJAle3Oz6IyShx0QW9HUGUxOTQ2Q1ZxV01qMGQzVDlnbTFIdTQ9Wh8iHRhxMkFjQkxLb3RKOW4zZzgvdUFHaHhRVWM4elU9ZZhIxiAS7AEIGxLnAQocV0VIOGpiTlp5S212NmhLWU5jbjVtcDUxdzZ3PRJmWjpBRHF0QVp6ckhOWUZ6VEJlWFAvall2N3NkZHNTT0xWeFRnUUliSTZBVm9SSDZTNnJYQzBsbUd2UXgyOHpEVE0wUDZIMENubUlOZFVBdUNoWDBUSDl2K2dYWVRvbUxKMDFvdz09GAAgBigGMPjAy4SZ1IkDOPmYmKGuMkC+0PLZsTJKHEZXYklBcUZOZFA2azdvZTNWd091bmw5MVA3OD1aHyIdv3ZoWVBRUGJITlR6L2FxR0E0dTdWWDBNbldQST1luJUt3xL0AQgdEu8BChxHbjFCNW52ZE1DcFNwMDZzdXJQZnIya2xZY0E9EmZaOkFEcXRBWnpySE5ZRnpUQmVYUC9qWXY3c2Rkc1N4Tk5OSC9HTlJqRDN1VS9kT2dNZnVhNngwUjduZ09rd1ZEL0tncVhmcDZSQkxObEhjb0o2Yk9udHVUcjlNajQ4c1hQVnJ3PT0YACAAKAAw1+fjqejHiQM4uc+sjbAyQLnPrI2wMkocZHByR1dodzRaS1VjdXJOSEdCUmh4TVl6eHBVPVonIiX/////AAAAB+psb0h4eVFHQkR1VzVKc1ZzeDRGL2N1VTQvbEk9ZY6j6m8S/wEIBxL6AQocOXMxWFYxam4yNEVEMzNOejdXSVJuRUVMNWVVPRJmWjpBRHF0QVp6ckhOWUZ6VEJlWFAvall2N3NkZHNTZGM0TmVyYUtyWHB0MU5Dejdjb25tNGhHU0F6RHBNZ2h3TWJPT2FwanJyd1JSRkR2TjJMeUFBRzhGaUpZSmlwYzJqN1pkUT09GAAgACgAMLyD8eunj4YDONuwqL3AMUDbsKi9wDFKHG84VmhlYmhlVzZBcTY0dHR5ck03WlE0a1ppND1aMiIwBFFzakVhdjc4UjVWREMvd2NvNqdFQ0dCNlhtRlRDUytub3J1Z29sNkROaTltR3M9ZZs9hbYSgAIIChL7AQocSVdHQUdVeGZyb2NxLzVjUlBsSS9icVk4WkswPRJmWjpBRHF0QVp6ckhOWUZ6VEJlWFAvall2N3NkZHNTNjF1czAxaEREd3EwNHRwRE1RVHdJNWFVR1VqTDNxbmM3U2d2ajBKQ2p1R21DM3FDUWNHZStSZUNLZEJMeHJreC9YY2syUT09GAAgBSgFMJ7r/av32IkDOODI4L+8MUC6kcCnsjJKHEMyQnpjakwvWjhwa3hLaGxlbXBOanl3VHpFZz1aMyIxBFFzakVhdjc4UjVWREMvd2NvNrS8VWJLT2NKVXVGWG5MR2VXbU15cGZFQ1JEYjVFPWV8LVSAEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFad2xkVXhWWFBybFk4RzhvOTl4VGJWUnQ5WGsvRklZMWZ4SHVrUWJHUlB6UVVpZ042ZHpvSjdpSWgwNC9vWWdqanpvTURKQjZpNTRnOFRyTStJT3MxTVEvdm14V3c9PRgAIAAoADCOs/j0raqJAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEocCCA4SggIKHFUxY204b2JybERQWGN4bXNMOGhaMjlDdUlzdz0SZlo6QURxdEFaenJITllGelRCZVhQL2pZdjdzZGRzUzQwcDArZUNxZXdPT2NCa2NCaWpJcUpGMit1TDBTQWpKRU5ycVRHZjl5SGt5dUo5b3U2MUtqeERraHdvZmE2TkUwS3o4MGc9PRgAIAAoADC8g/Hrp4+GAzix08X91jFAsdPF/dYxShw5UkVFL2E3UDNSMy80a1V3VThZMFhXalZpOTA9WjoiONNyRTFrSVdQK1FQTGN6dFVDcGh2Nk9xY1JpQU1wdGcySU1CemxIeU9tSnlQR3JGRlRFem43NFE9ZQi9NhQS7QEIExLoAQoceVBaVzJkNmlyUnhIYXZNSEhLam1Oc2pybno0PRJmWjpBRHF0QVp6ckhOWUZ6VEJlWFAvall2N3NkZHNTM1VpTHRKOGRlZit5SVpOWlREL0ZtazFXOTFwU0lOWFVLZHV5MFMxNkE1WHNzRUQ2N3g0bE9WMjR1TXZKZ01nMTNJSllLQT09GAAgACgAMPCiy8n+l4kDON6C7YepMkDegu2HqTJKHFBLZ0FmNm5zcnJYK3ZqR0JvekJvNUYrS0Ixaz1aICIe/9xZTnh4N1c1cEpNaTBrcjM2UUliTnltUXJYcHc9ZcjzP7sS7AEIERLnAQocNytLbXZyY0hpZkpOajZ2aFNjQUJNVlFMUjFvPRJmWjpBRHF0QVp6ckhOWUZ6VEJlWFAvall2N3NkZHNTU2xsbHhrdzNBd2lLMEsycE5FSVErK3lDYWxRRzFkVkYxditCbWpEQjdnd3pLNEpXa2JQcXFtZlZVc0dMUEJvVlAwUzVldz09GAAgACgAMLWXx/DnwYcDOL6ti9D5MUC+rYvQ+TFKHFhXUVZZdUNsNzFqbEtDOXRsWEt4ZURrYzNDcz1aHyId/3BaN1h4YXpjNzIrZWd2MmJKMHlkS1FJZkVKTT1lV/Vt4xLrAQgVEuYBChxHMURrNEFKelBHZkdzTmFXRk9lazd4N3pvSm89EmZaOkFEcXRBWnpySE5ZRnpUQmVYUC9qWXY3c2Rkc1NkRnJxcmlxeTl4OU1SazdOa1Zwa2NsRURsU2VNMEU1NGZ2V054RGh4Wk51UnoydFFWbSs3dFRhMUIvek00N3o5YnpRaXFBPT0YACAAKAAwjcLUtf7yggM4n/2ay7wxQJ/9msu8MUocdmtJRys4L3RRSXlDem9YKytpajlwaSs4S280PVoeIhwwSmJRVXozYUFlS3kwNDBRaUtkalJ4dzQ3Tzg9ZdP1XS8S9AEIGRLvAQocNC9xSndoNFBMQzJzbXVhcTFXNk5MYzBKWS9rPRJmWjpBRHF0QVp6ckhOWUZ6VEJlWFAvall2N3NkZHNTaFJpVE4va1V2ZlE3SDFEMUtyeldqWFBpeHRGUXI3Tk1uaHIrMkFYVDVPd0lUOEZpMUZqVmh1VkpVQ2g0QnRrS2VSanhtUT09GAAgACgAMIGVsPjHr4QDOOafruK/MUDmn67ivzFKHFIwTk12UTlJRDJ0c1UxY1c0SjF5a2JtV2FoWT1aJyIl/////wAAAAfUam5FTXdwZ3Z1Y1cxbituR0s5ZjVOYU83MVFzPWVfOZ85EuwBCAsS5wEKHGdxWjVqOFZnY1dvbUJ0WDVwYWpRTk4vQVFwRT0SZlo6QURxdEFaenJITllGelRCZVhQL2pZdjdzZGRzUyt6V1RjdUprOGNnczRpTUl5WS9tdEMrcmRua05vcnl3RDN5K0N4RDFCMlU2bGt6bFZpcW1Pdlp5ZFU3c2FvV0s0Z2lBcWc9PRgAIAAoADDcutWArMKJAzjujJHW8DFArJzbs68yShxZZ3BDL2dMM3dXNWRkd3BzcmpnUFVweEFtRDQ9Wh8iHSluclAvRTRrRGU5MUt2eHk5S3JLT2VBVVA1dDg9ZcOns6US7AEIDxLnAQocRWN1ek5TMXZVN2Q5Y0xxdW03UVdQd094WFd3PRJmWjpBRHF0QVp6ckhOWUZ6VEJlWFAvall2N3NkZHNTVkFCd3pXZm5vcWQwS01oUzNQb01mc1ZTbjFqcUxNR1FGWmRySGdRZWJ2cWNOcUY4dTh0cTlaVUM2WWRXZUNSamsra1lIZz09GAAgAygDMIz2gLrL2YkDON24/v/dMUCx5MiwsjJKHHFFeHQzdDZSaENqQy9WZmM1M2hwTVQ2SHhjWT1aHyIdrEg2TEhyK3JVTmFaelRUY2tVL3dPQWp4YzNuMD1lyPM/uxL0AQgYEu8BChx1R2dRL0ZkWnp2cWtQR3Qzdmo4VllaMGMzOE09EmZaOkFEcXRBWnpySE5ZRnpUQmVYUC9qWXY3c2Rkc1NRWnJ3aEhaa1k1WG9iQ2FxZGMxbUlKNVZYakhCb1JHSjdSaTdERWZXaHV3aTJYUlFFSmJQM25XM2NIaHg1azkwcmJaWlNRPT0YACAAKAAwm+nBv/rtgQM494KH9bExQPeCh/WxMUocdHhYc2NHWXNYeHZGWTMwNTlnbnc5UFRrQlhZPVonIiX/////AAAAB6lDL0ZtcVAwR3J0TGJBUEVTYmZCbzdIYUxLbXM9Zf+vFeYS/wEICRL6AQocVXJaMVp6bzBjb1VwMUo4MkwxRmdjNWRYd1lRPRJmWjpBRHF0QVp6ckhOWUZ6VEJlWFAvall2N3NkZHNTYTgyUEJLWG14WTZ1dmlnV1grbWRDbDU0UStNT1E3V2FMcHcxb3BmYmFkd3lOUUl6N2RFVit0SmJlZi9pZkRBTXptSy9hZz09GAAgACgAMLyD8eunj4YDOMnI4L+8MUDJyOC/vDFKHHhXOU5Wako3dTBwb2o0V1A3enJ2dTh4QVVJaz1aMiIwBFFzakVhdjc4UjVWREMvd2NvNrRaOVNHYUwzcTVSV2NlZEtGR1RaR1ZGa0ZkUEk9Zf5KGI8SqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp5TEUwU3hWbm9BVktNRnFOTHQ3QTY2WU5mMTBoYkFLMWVWZ2ZZVlhGSGwyYkRiN3g3M1Z1L3JpdjZFWFFOcmYvRDBoY2tDGAAgACgAMI6z+PStqokDOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAS/wEIHxL6AQoccklSRUJjMDhkN3JucW5GdjJBZ3RUanhtQnN3PRJmWjpBRHF0QVp6ckhOWUZ6VEJlWFAvall2N3NkZHNTUGdranRLd3ZTVmFPbjRuK1FVQUY1MlVBYWV3SU8yb0FFMkQ1OTBUQzhjM3FETjRpYWF0Ym9vcVh6UFdPazZGU1ZGazFLZz09GAAgBSgFMOr08fOa1okDOLu55taxMkDEjJr5sTJKHHBjRGM3R2tQVHcxMU1GaWtSNXJINnZER2hKdz1aMiIwBFFzakVhdjc4UjVWREMvd2NvNqpjOFAxQll5YUphYmpWRTVIUW52YjBpYkxuczQ9ZUxSmCkS7AEIEBLnAQocZ3lZYnFqR0tWYzJjczJyWDVIMkhSMXdPdkFBPRJmWjpBRHF0QVp6ckhOWUZ6VEJlWFAvall2N3NkZHNTeGVKTW84WmV1RVd3MUNaRENEVEZlZGZOZ01iWEUvSDArS1hCRlFpbnAwVjFKK2NlSW5iTEZ6V09Yb3FIQklxNWRkeUYyQT09GAAgASgBMOmXw7WzuYkDOKqEgvjzMUCop5qhrjJKHFVJbmpEc3BwSCtWRno3c2wzalZlODhoU21hcz1aHyIdhjNtU3V3enRaNlM0ZE96LzRoU3ZtNjNoR2o2bz1lpxzSGRLrAQgMEuYBChxvc09jUDFsYkxTYURqQ1JSUEdxSjIvMFQyaG89EmZaOkFEcXRBWnpySE5ZRnpUQmVYUC9qWXY3c2Rkc1M4RTVoMUVtd2c1T1U5NHhqcjZzcEd4RXNhSlRXcmxvZlVwclpLWGxLZFdjSjAvajlNZWhuSm9ack1ueWo5b2p1Nlo5U0V3PT0YACACKAIwqsW0gtrWiQM426y47r4xQIGTpIGyMkocRDhrcFc1T2kzTnRST0VodzVyMHlWVHc0K0pJPVoeIhw5cnpkTlpPTlM3R2VMRTcyenJoV1drMnEyUGM9Zacc0hkS/wEIBhL6AQocYWdDQStkcmk2Q1pzbGV6N0g4MWZqTGhqaTVBPRJmWjpBRHF0QVp6ckhOWUZ6VEJlWFAvall2N3NkZHNTZ05hZmNPMndxS1dDalJHb2NIazR1aXY0ajZPV3pBVnk4NURLeUpDRUtCOUpFWXZIeFFqL3J2KytBVU8ybnFQNUJLYUo0UT09GAAgACgAMLyD8eunj4YDOMznieq9MUDM54nqvTFKHG1TNG9jZW56d29qSTNqOHdaUzdLUExsVHRRaz1aMiIwBFFzakVhdjc4UjVWREMvd2NvNqF2QzM3NSsxWGF0WmNFNmlqcXZoL0lNa2dEOEU9Zedc5lYSwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp5ajBEbE42ZnNCSnVRRWMzMWZ4UzdhazNnTHdwYWZ4UFhxUk4rVVBIbHBxaUxnZUhhVHpTU0ZTWjBIVlBoWjBHcjlDSStKV29GRERBbFFuRWd4YXFvTWpqOTZlQT09GAAgACgAMI6z+PStqokDOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAS9AEIFxLvAQocYU01eWdITHhkQjF5NHo2RjFwalhwK0NZeEJzPRJmWjpBRHF0QVp6ckhOWUZ6VEJlWFAvall2N3NkZHNTSTdHN3F3T2dGTlYxV2RjOU16S3YwamhwaElBL2FnM1NJWEM1K25xZndoSVpoTm84RzJaYWZPSnZ4S0poazZOc3VjNncvZz09GAAgACgAMPKfzbS43YUDOPjnieq9MUD454nqvTFKHGlWbU00SXVDYjJOQVNKWDcyTWZnSThXdE1KUT1aJyIl/////wAAAAbMeGF3M1lhejFGSFVsa01GTHRyVTIwd0tNNVRFPWUStSWbEusBCBYS5gEKHFgrcnUvMmtJNml1bHUvODFrclBqVy96cHUrQT0SZlo6QURxdEFaenJITllGelRCZVhQL2pZdjdzZGRzUzJEeHRVaEtBUTg5OHVjZjZEeGFEUEM5UjlCQmw3WStzVEtoMVR3dkN4dWZRNUt2UVBBY1pvUGl1TG5DVS9aZFE4Ym5UQ0E9PRgAIAAoADCy4OX1uY2JAziG/P3N1zFAhvz9zdcxShxOY0xBc3dFOVM1ZEhBaWNZWDdlYzg1czNUUTQ9Wh4iHGxuWVhudFlrQkZXdFhRRmhQczNGWmVzNlRIYz1l98Dk0xLsAQgFEucBChxWOXNvUkZ4emZQZzRONDlXQXdhNjBLQ2lJWDA9EmZaOkFEcXRBWnpySE5ZRnpUQmVYUC9qWXY3c2Rkc1N4QTJvcFdYc2pTZHpxL3pXWE0xSDQ2M0xCWWp3TDU2STZnZiswbnFRYXBuRG83WUVzQ0tMdzc1WHBSNGVva1NNb0dXWEh3PT0YACAAKAAw6LGJkv+ZiQM49KWu5LQxQPSlruS0MUocRWlFb0lhaFpjOHQ2WThTNjlEN09FMXRZaUdRPVofIh0EUXNqRWF2NzhSNVZEQy93Y282dFc3M3NYd21BPWX9nIxKEv8BCAgS+gEKHERpTkE5c2h2VjNJY0pSdEE0NG5MejlKczg4bz0SZlo6QURxdEFaenJITllGelRCZVhQL2pZdjdzZGRzU3Z1NThsZUR3cE9uaWJDcENaRnVXSWx0VmRxTSt5OHp3YUpGMzdOSzZlSXdCbEtGK2diZWJHRVFORXgza0RubHV3MDVCVkE9PRgAIAAoADDfjfj7u4+GAzjT54nqvTFA0+eJ6r0xShxCMEoxRngvcmFUVXRkcFZXZWNNYUJRQ2JPeGs9WjIiMARRc2pFYXY3OFI1VkRDL3djbzatQjZTeXFnSFM4d1liUXgwU2ZacUVrYllVRVpJPWXFz5ABMAE4AA==",
+   "version": 1
+}

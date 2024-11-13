@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54.868" height="64" viewBox="0 0 54.868 64">
+    <defs>
+        <filter id="prefix__Tracé_4633" width="40.732" height="48.117" x="7.068" y="4.847" filterUnits="userSpaceOnUse">
+            <feOffset dy="-1"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".098"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .prefix__cls-3{fill:#1b9337}
+        </style>
+    </defs>
+    <g id="prefix__privacy-illustration" transform="translate(-535.348 -210)">
+        <path id="prefix__Tracé_4632" d="M562.781 274c6.682-1.357 22.987-9.8 25.495-32.022l1.932-17.067a1.174 1.174 0 0 0-.12-.663 1.075 1.075 0 0 0-.459-.468l-26.388-13.666a.993.993 0 0 0-.919 0l-26.379 13.666a1.073 1.073 0 0 0-.459.468 1.167 1.167 0 0 0-.129.663l1.932 17.067C539.8 264.2 556.1 272.643 562.781 274z" data-name="Tracé 4632" style="fill:#23ae4a"/>
+        <g id="prefix__Groupe_1715" data-name="Groupe 1715" transform="translate(551.416 224.847)">
+            <g id="prefix__Groupe_1718" data-name="Groupe 1718">
+                <g transform="translate(-16.07 -14.85)">
+                    <path id="prefix__Tracé_4633-2" d="M631.2 287.878h-.567v-4.547a8.524 8.524 0 0 0-8.524-8.524 8.524 8.524 0 0 0-8.524 8.524v4.547h-.568a2.274 2.274 0 0 0-2.273 2.272v12.5a2.273 2.273 0 0 0 2.273 2.273H631.2a2.273 2.273 0 0 0 2.273-2.273v-12.5a2.273 2.273 0 0 0-2.273-2.272zm-14.208-4.547a5.114 5.114 0 0 1 10.228 0v4.547h-10.238z" data-name="Tracé 4633" transform="translate(-594.67 -259.96)" style="fill:#fff"/>
+                </g>
+                <path id="prefix__Tracé_4635" d="M669.825 385.411a2.656 2.656 0 1 1-2.656 2.656 2.656 2.656 0 0 1 2.656-2.656z" class="prefix__cls-3" data-name="Tracé 4635" transform="translate(-658.503 -368.425)"/>
+                <path id="prefix__Rectangle_141" d="M676.031 413.975h2.3l.176 4h-2.655z" class="prefix__cls-3" data-name="Rectangle 141" transform="translate(-665.855 -392.602)"/>
+            </g>
+        </g>
+    </g>
+</svg>

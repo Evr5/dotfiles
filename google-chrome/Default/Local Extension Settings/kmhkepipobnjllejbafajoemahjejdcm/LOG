@@ -1,0 +1,11 @@
+2024/11/13-19:16:58.477 11099 Reusing MANIFEST /home/ethan/.config/google-chrome/Default/Local Extension Settings/kmhkepipobnjllejbafajoemahjejdcm/MANIFEST-000001
+2024/11/13-19:16:58.477 11099 Recovering log #131
+2024/11/13-19:16:58.490 11099 Level-0 table #135: started
+2024/11/13-19:16:58.506 11099 Level-0 table #135: 1138944 bytes OK
+2024/11/13-19:16:58.509 11099 Delete type=0 #131
+2024/11/13-19:21:41.309 11097 Compacting 1@0 + 1@1 files
+2024/11/13-19:21:41.328 11097 Generated table #137@0: 4 keys, 1138996 bytes
+2024/11/13-19:21:41.328 11097 Compacted 1@0 + 1@1 files => 1138996 bytes
+2024/11/13-19:21:41.329 11097 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/13-19:21:41.330 11097 Delete type=2 #135
+2024/11/13-19:21:41.330 11097 Delete type=2 #133

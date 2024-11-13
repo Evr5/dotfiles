@@ -1,0 +1,21 @@
+2024/11/13-16:54:43.728 c17d Reusing MANIFEST /home/ethan/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/11/13-16:54:43.728 c17d Recovering log #209
+2024/11/13-16:54:43.729 c17d Reusing old log /home/ethan/.config/google-chrome/Default/Sync Data/LevelDB/000209.log 
+2024/11/13-17:06:32.025 c17f Level-0 table #213: started
+2024/11/13-17:06:32.032 c17f Level-0 table #213: 89466 bytes OK
+2024/11/13-17:06:32.034 c17f Delete type=0 #209
+2024/11/13-17:28:59.115 c17e Level-0 table #215: started
+2024/11/13-17:28:59.122 c17e Level-0 table #215: 100957 bytes OK
+2024/11/13-17:28:59.125 c17e Delete type=0 #212
+2024/11/13-19:15:00.979 c17d Level-0 table #217: started
+2024/11/13-19:15:00.982 c17d Level-0 table #217: 117367 bytes OK
+2024/11/13-19:15:00.984 c17d Delete type=0 #214
+2024/11/13-19:15:00.984 c17d Compacting 4@0 + 1@1 files
+2024/11/13-19:15:00.988 c17d Generated table #218@0: 313 keys, 50375 bytes
+2024/11/13-19:15:00.988 c17d Compacted 4@0 + 1@1 files => 50375 bytes
+2024/11/13-19:15:00.989 c17d compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/13-19:15:00.990 c17d Delete type=2 #213
+2024/11/13-19:15:00.990 c17d Delete type=2 #215
+2024/11/13-19:15:00.990 c17d Delete type=2 #208
+2024/11/13-19:15:00.990 c17d Delete type=2 #217
+2024/11/13-19:15:00.990 c17d Delete type=2 #210

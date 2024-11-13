@@ -1,0 +1,6 @@
+2024/11/13-16:12:21.241 83bf Reusing MANIFEST /home/ethan/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/11/13-16:12:21.247 83bf Recovering log #8
+2024/11/13-16:12:21.247 83bf Reusing old log /home/ethan/.config/vesktop/sessionData/Local Storage/leveldb/000008.log 
+2024/11/13-16:27:28.078 83bf Level-0 table #12: started
+2024/11/13-16:27:28.083 83bf Level-0 table #12: 47616 bytes OK
+2024/11/13-16:27:28.085 83bf Delete type=0 #8

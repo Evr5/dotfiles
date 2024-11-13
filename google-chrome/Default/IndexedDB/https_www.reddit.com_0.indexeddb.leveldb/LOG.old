@@ -1,0 +1,7 @@
+2024/11/11-17:39:19.417 fa8b Reusing MANIFEST /home/ethan/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/11-17:39:19.417 fa8b Recovering log #3
+2024/11/11-17:39:19.417 fa8b Reusing old log /home/ethan/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000003.log 
+2024/11/11-17:39:58.073 fa78 Level-0 table #5: started
+2024/11/11-17:39:58.074 fa78 Level-0 table #5: 3309 bytes OK
+2024/11/11-17:39:58.076 fa78 Delete type=0 #3
+2024/11/11-17:39:58.076 fa78 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

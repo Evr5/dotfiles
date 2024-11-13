@@ -1,0 +1,2 @@
+connect.dial_devices="[{\"address\":\"192.168.0.195\",\"app_state\":\"INSTALLABLE\",\"created_timestamp\":1730475700,\"device_id\":\"360795a6-3545-438c-904b-74dd0bd97b79\",\"dial_location_url\":\"http://192.168.0.195:1488/\",\"display_name\":\"[LG] webOS TV UR78006LK\",\"last_seen\":1730475714,\"manufacturer\":\"LG\",\"model_name\":\"50UR78006LK\",\"product_cap\":\"\",\"public_ip\":\"2a02:1811:427:b900:efb8:9a93:da63:20ec\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":50,\"mac\":\"d8e35e1fe7e8\",\"port\":9,\"retries\":2400}}]"
+audio.play_bitrate_non_metered_migrated=true

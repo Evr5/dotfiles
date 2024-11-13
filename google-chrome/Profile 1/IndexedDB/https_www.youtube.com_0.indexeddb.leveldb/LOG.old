@@ -1,0 +1,12 @@
+2024/11/11-16:02:58.401 fa77 Reusing MANIFEST /home/ethan/.config/google-chrome/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/11-16:02:58.401 fa77 Recovering log #14
+2024/11/11-16:02:58.407 fa77 Reusing old log /home/ethan/.config/google-chrome/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000014.log 
+2024/11/11-16:06:00.768 fa78 Level-0 table #19: started
+2024/11/11-16:06:00.779 fa78 Level-0 table #19: 1525777 bytes OK
+2024/11/11-16:06:00.782 fa78 Delete type=0 #14
+2024/11/11-16:48:05.813 fa79 Compacting 1@1 + 1@2 files
+2024/11/11-16:48:05.818 fa79 Generated table #20@1: 391 keys, 47763 bytes
+2024/11/11-16:48:05.818 fa79 Compacted 1@1 + 1@2 files => 47763 bytes
+2024/11/11-16:48:05.820 fa79 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/11-16:48:05.820 fa79 Delete type=2 #19
+2024/11/11-16:48:05.820 fa79 Delete type=2 #16

@@ -1,0 +1,1 @@
+import{e as o,b as a}from"./web-app-BYLHyDTc.js";async function i(s){const e=o.map(async r=>{const t=`eurosaver:article:${s}:${r.id}`;return(await a.storage.local.get([t]))[t]});return Promise.all(e).then(r=>r.filter(t=>t!==void 0))}async function l(s){const e=`eurosaver:article:${s.asin}:${s.country.id}`;await a.storage.local.set({[e]:s})}export{i as l,l as s};

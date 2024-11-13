@@ -1,0 +1,12 @@
+2024/10/26-11:07:31.410 404 Reusing MANIFEST /home/ethan/.config/google-chrome/Default/IndexedDB/https_universitelibrebruxelles-my.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/26-11:07:31.410 404 Recovering log #12
+2024/10/26-11:07:31.415 404 Reusing old log /home/ethan/.config/google-chrome/Default/IndexedDB/https_universitelibrebruxelles-my.sharepoint.com_0.indexeddb.leveldb/000012.log 
+2024/10/26-11:07:33.494 404 Level-0 table #17: started
+2024/10/26-11:07:33.510 404 Level-0 table #17: 1252162 bytes OK
+2024/10/26-11:07:33.513 404 Delete type=0 #12
+2024/10/26-11:07:33.607 403 Compacting 1@1 + 1@2 files
+2024/10/26-11:07:33.629 403 Generated table #18@1: 3896 keys, 1634232 bytes
+2024/10/26-11:07:33.629 403 Compacted 1@1 + 1@2 files => 1634232 bytes
+2024/10/26-11:07:33.631 403 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/26-11:07:33.631 403 Delete type=2 #17
+2024/10/26-11:07:33.631 403 Delete type=2 #14

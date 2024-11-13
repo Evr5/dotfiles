@@ -1,0 +1,6 @@
+# GIMP action-history
+
+(history-item "file-open" 0)
+(history-item "view-rotate-90" 1)
+
+# end of action-history

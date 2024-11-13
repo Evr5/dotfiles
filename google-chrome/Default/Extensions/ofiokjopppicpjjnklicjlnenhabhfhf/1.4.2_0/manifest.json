@@ -1,0 +1,53 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "icons/inactive/16.png",
+         "19": "icons/inactive/19.png",
+         "32": "icons/inactive/32.png",
+         "38": "icons/inactive/38.png"
+      },
+      "default_popup": "src/entries/popup/index.html"
+   },
+   "author": {
+      "email": "founderedeveloper@gmail.com",
+      "name": "Foundere Developer"
+   },
+   "background": {
+      "service_worker": "serviceWorker.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "css": [  ],
+      "js": [ "src/entries/contentScript/primary/main.js" ],
+      "matches": [ "*://www.amazon.de/*", "*://www.amazon.fr/*", "*://www.amazon.it/*", "*://www.amazon.es/*", "*://www.amazon.nl/*", "*://www.amazon.se/*", "*://www.amazon.co.uk/*", "*://www.amazon.com.be/*", "*://www.amazon.pl/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Simplifies Amazon product price comparison between all supported european Amazon stores.",
+   "host_permissions": [ "*://www.amazon.de/*", "*://www.amazon.fr/*", "*://www.amazon.it/*", "*://www.amazon.es/*", "*://www.amazon.nl/*", "*://www.amazon.se/*", "*://www.amazon.co.uk/*", "*://www.amazon.com.be/*", "*://www.amazon.pl/*" ],
+   "icons": {
+      "128": "icons/active/128.png",
+      "16": "icons/active/16.png",
+      "19": "icons/active/19.png",
+      "256": "icons/active/256.png",
+      "32": "icons/active/32.png",
+      "38": "icons/active/38.png",
+      "48": "icons/active/48.png",
+      "512": "icons/active/512.png",
+      "64": "icons/active/64.png",
+      "96": "icons/active/96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnFyDVqmcsexXSFK296utvAbsuvqsTW63A7JmpsXmfltmlQjBaB9sTSr+dBLwXF1+RDBauleNvQ7f2V8rUU3OelISctz4MvB6kr7j2pViMnB4s0DgZNFSNPYlAo5MKT9C1KfQNgtumDI6vym87FUv3IZ+2AebW7OIoqDyVt9cbjtorAKk5T9eH8qCfe6QlSfslcjPUx2D2H1o8GDptAewPIGH2PoSrzCnSYbg7+EGDa2K7L9Ak8We2f+8UdDbfeEnb0oiXkCRZA2hRaMf+cdETbR1mRzorQFMH6ucLnad8cnt3kpUFc/m3MwsReu4BG/rDsBZqnpsyfyeeIrNfviVswIDAQAB",
+   "manifest_version": 3,
+   "name": "EuroSaver - Amazon Product Price Comparison",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "src/entries/options/index.html"
+   },
+   "permissions": [ "activeTab", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.4.2",
+   "web_accessible_resources": [ {
+      "matches": [ "*://www.amazon.de/*", "*://www.amazon.fr/*", "*://www.amazon.it/*", "*://www.amazon.es/*", "*://www.amazon.nl/*", "*://www.amazon.se/*", "*://www.amazon.co.uk/*", "*://www.amazon.com.be/*", "*://www.amazon.pl/*" ],
+      "resources": [ "assets/src/entries/contentScript/primary/main-CiRj9qWs.js", "assets/logo_transparent-0uWmt-l8.png", "assets/index-DHB7cn3E.js", "assets/es-BS9V7kLt.png", "assets/pl-C1kU6iL1.png", "assets/uk-CNgA79tJ.png", "assets/web-app-BYLHyDTc.js", "assets/message-bus-BTJJCMgk.js", "assets/Spinner-jSzkEcAd.js", "assets/icon-DnXom9M3.png", "assets/storage-Cjm7ecue.js", "assets/index-1LMYJEzU.css" ]
+   } ]
+}

@@ -1,0 +1,29 @@
+2024/11/13-16:54:43.995 c17d Reusing MANIFEST /home/ethan/.config/google-chrome/Default/Local Extension Settings/kmhkepipobnjllejbafajoemahjejdcm/MANIFEST-000001
+2024/11/13-16:54:43.995 c17d Recovering log #120
+2024/11/13-16:54:43.995 c17d Reusing old log /home/ethan/.config/google-chrome/Default/Local Extension Settings/kmhkepipobnjllejbafajoemahjejdcm/000120.log 
+2024/11/13-17:09:07.600 c17e Level-0 table #125: started
+2024/11/13-17:09:07.618 c17e Level-0 table #125: 1132653 bytes OK
+2024/11/13-17:09:07.620 c17e Delete type=0 #120
+2024/11/13-17:11:25.931 c189 Compacting 1@1 + 1@2 files
+2024/11/13-17:11:25.948 c189 Generated table #126@1: 23 keys, 1150003 bytes
+2024/11/13-17:11:25.948 c189 Compacted 1@1 + 1@2 files => 1150003 bytes
+2024/11/13-17:11:25.950 c189 compacted to: files[ 1 0 1 0 0 0 0 ]
+2024/11/13-17:11:25.950 c189 Delete type=2 #122
+2024/11/13-17:11:25.950 c189 Delete type=2 #108
+2024/11/13-17:21:32.250 c17e Level-0 table #128: started
+2024/11/13-17:21:32.270 c17e Level-0 table #128: 1138566 bytes OK
+2024/11/13-17:21:32.273 c17e Delete type=0 #124
+2024/11/13-17:23:36.480 c17e Level-0 table #130: started
+2024/11/13-17:23:36.496 c17e Level-0 table #130: 1138419 bytes OK
+2024/11/13-17:23:36.498 c17e Delete type=0 #127
+2024/11/13-17:26:02.618 c18c Level-0 table #132: started
+2024/11/13-17:26:02.634 c18c Level-0 table #132: 1138181 bytes OK
+2024/11/13-17:26:02.636 c18c Delete type=0 #129
+2024/11/13-17:26:02.637 c18c Compacting 4@0 + 0@1 files
+2024/11/13-17:26:02.658 c18c Generated table #133@0: 3 keys, 1138529 bytes
+2024/11/13-17:26:02.659 c18c Compacted 4@0 + 0@1 files => 1138529 bytes
+2024/11/13-17:26:02.660 c18c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/13-17:26:02.661 c18c Delete type=2 #130
+2024/11/13-17:26:02.661 c18c Delete type=2 #125
+2024/11/13-17:26:02.661 c18c Delete type=2 #132
+2024/11/13-17:26:02.661 c18c Delete type=2 #128

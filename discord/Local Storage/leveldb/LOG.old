@@ -1,0 +1,26 @@
+2024/11/11-14:24:16.922 12ee9 Reusing MANIFEST /home/ethan/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/11/11-14:24:16.927 12ee9 Recovering log #67
+2024/11/11-14:24:16.927 12ee9 Reusing old log /home/ethan/.config/discord/Local Storage/leveldb/000067.log 
+2024/11/11-14:27:09.486 12eea Level-0 table #71: started
+2024/11/11-14:27:09.500 12eea Level-0 table #71: 847311 bytes OK
+2024/11/11-14:27:09.502 12eea Delete type=0 #67
+2024/11/11-15:37:17.677 12eea Level-0 table #73: started
+2024/11/11-15:37:17.680 12eea Level-0 table #73: 18026 bytes OK
+2024/11/11-15:37:17.682 12eea Delete type=0 #70
+2024/11/11-16:32:17.677 12eea Level-0 table #75: started
+2024/11/11-16:32:17.683 12eea Level-0 table #75: 18495 bytes OK
+2024/11/11-16:32:17.685 12eea Delete type=0 #72
+2024/11/11-16:32:17.685 12eea Compacting 4@0 + 2@1 files
+2024/11/11-16:32:17.702 12eea Generated table #76@0: 9 keys, 2429163 bytes
+2024/11/11-16:32:17.719 12eea Generated table #77@0: 49 keys, 851269 bytes
+2024/11/11-16:32:17.719 12eea Compacted 4@0 + 2@1 files => 3280432 bytes
+2024/11/11-16:32:17.721 12eea compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/11/11-16:32:17.721 12eea Delete type=2 #65
+2024/11/11-16:32:17.721 12eea Delete type=2 #66
+2024/11/11-16:32:17.721 12eea Delete type=2 #71
+2024/11/11-16:32:17.721 12eea Delete type=2 #68
+2024/11/11-16:32:17.721 12eea Delete type=2 #75
+2024/11/11-16:32:17.721 12eea Delete type=2 #73
+2024/11/11-17:38:17.677 12eea Level-0 table #79: started
+2024/11/11-17:38:17.683 12eea Level-0 table #79: 23624 bytes OK
+2024/11/11-17:38:17.684 12eea Delete type=0 #74
