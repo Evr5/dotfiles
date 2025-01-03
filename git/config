@@ -1,0 +1,10 @@
+[user]
+    name = ethan
+    email = ethanvr3@gmail.com
+
+[alias]
+    lg = "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative"
+    lg1 = "log --oneline --abbrev-commit --all --graph --decorate --color"
+    
+[core]
+    editor = vim

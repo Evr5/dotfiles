@@ -16,7 +16,7 @@ Bienvenue dans le dépôt de mes dotfiles ! Ces fichiers de configuration sont u
 - **Rofi** comme lanceur d'applications
 - **Wlogout** pour la gestion des sessions
 
-## 🚀 Installation
+## Installation
 
 ### Prérequis
 
